@@ -1,1 +1,1 @@
-# Healthcare-AI-Hackathon-Competition-Using-Pedestrian-Data
+## 보행데이터 활용 헬스케어 AI 해커톤 경진대회
