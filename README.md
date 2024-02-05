@@ -2,7 +2,10 @@
 ### 📌 대회 소개
 - **대회목표** : 보행 데이터를 활용한 근감소증 탐지
 
-- **해결 아이디어** : 
+<p align="center">  
+  <img src="https://github.com/ssh6lq/Healthcare-AI-Hackathon-Competition-Using-Pedestrian-Data/assets/154342847/23dbe1f3-0ca2-4cc3-97e0-dafce5c7568e.png" align="center" width="30%">  
+</p>
+
 
 ---
 
@@ -24,10 +27,11 @@
 
   
 #### AI 모델링
-- **LSTM-AUTOENCODER**
+- **LSTM-Autoencoder**
 
 
 #### 결과
+- 최우수상
 
 
 
