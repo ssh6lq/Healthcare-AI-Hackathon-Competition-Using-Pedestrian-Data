@@ -13,7 +13,7 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 # tf.__version__
 
-#GPU 용량 할당 
+#GPU
 gpus = tf.config.experimental.list_physical_devices('GPU')
 if gpus:
   # Restrict TensorFlow to only allocate 2 GB of memory on the first GPU
